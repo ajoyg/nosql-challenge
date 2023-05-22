@@ -1,12 +1,12 @@
 # NoSQL Challenge
-Evaluate the food hygiene rating for vatious establishments across the United Kingdom fo Eat Safe, Love magazine. UCB Module 12 NoSQL challenge.
+Evaluate the food hygiene rating for various establishments across the United Kingdom for Eat Safe, Love magazine. UCB Module 12 NoSQL challenge.
 
 ### Part 1 : Database and Jupyter notebook setup
 1. The first step of the analysis is to import the establishment.json file from the Resources folder, the command line interface to import the file into a Mongo database is specified in the No_SQL_setup.ipynb Jupyter notebook.
 
 ### Part 2: Update the database
-1. The script in the notebook updates the database with a new halal restaurant- Penang Flavours just openned in Greenwich, this restaurant is included in the analysis.
-2. The script also updates fields like Business TYpe ID and covverts other fields to decimals and integers for further analysis.
+1. The script in the notebook updates the database with a new halal restaurant- "Penang Flavours" just openned in Greenwich, this restaurant is included in the analysis.
+2. The script also updates fields like Business Type ID and covverts other fields to decimals and integers for further analysis.
 
 ### Part 3: Exploratory Analysis
 The Jupyter notebook No_SQLanalysis.ipynb analyzes the following-
