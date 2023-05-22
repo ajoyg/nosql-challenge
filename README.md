@@ -10,7 +10,7 @@ Evaluate the food hygiene rating for vatious establishments across the United Ki
 
 ### Part 3: Exploratory Analysis
 The Jupyter notebook No_SQLanalysis.ipynb analyzes the following - 
-1. Establishments have a hygiene score equal to 20.
-2. Establishments in London have a RatingValue greater than or equal to 4
-3. Top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"
-4. Establishments in each Local Authority area have a hygiene score of 0. The results are sorted from highest to lowest, along with the top ten local authority areas.
+4. Establishments have a hygiene score equal to 20.
+5. Establishments in London have a RatingValue greater than or equal to 4
+6. Top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"
+7. Establishments in each Local Authority area have a hygiene score of 0. The results are sorted from highest to lowest, along with the top ten local authority areas.
