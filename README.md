@@ -6,7 +6,7 @@ Evaluate the food hygiene rating for various establishments across the United Ki
 
 ### Part 2: Update the database
 1. The script in the notebook updates the database with a new halal restaurant- "Penang Flavours" just openned in Greenwich, this restaurant is included in the analysis.
-2. The script also updates fields like Business Type ID and covverts other fields to decimals and integers for further analysis.
+2. The script also updates fields like Business Type ID and converts other fields to decimals and integers for further analysis.
 
 ### Part 3: Exploratory Analysis
 The Jupyter notebook No_SQLanalysis.ipynb analyzes the following-
